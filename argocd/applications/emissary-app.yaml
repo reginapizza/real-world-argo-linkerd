@@ -16,7 +16,7 @@ spec:
   project: default
   source:
     path: apps/emissary
-    repoURL: 'https://github.com/kflynn/real-world-argo-linkerd.git'
+    repoURL: 'https://github.com/reginapizza/real-world-argo-linkerd.git'
     targetRevision: main
   syncPolicy:
     automated:
