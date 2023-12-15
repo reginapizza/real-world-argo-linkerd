@@ -6,7 +6,7 @@ metadata:
 spec:
   vault:
     path: pki/root/sign-intermediate
-    server: http://172.27.0.4:8200
+    server: http://172.28.0.4:8200
     auth:
       tokenSecretRef:
          name: vault-pki-token
